@@ -7,7 +7,7 @@ const trueLink = "https://gaixinhchonloc.com/post/";
 const aa = [];
 
 async function allProgress() {
-  for (let i = 1; i < 5; ++i) {
+  for (let i = 1; i < 150; ++i) {
     await getLink(i);
   }
 }

@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "axios": "^0.26.1",
+    "jsdom": "^19.0.0"
+  }
+}
